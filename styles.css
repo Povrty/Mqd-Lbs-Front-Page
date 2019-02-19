@@ -1,0 +1,57 @@
+body {
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    margin: 0px;
+}
+
+html {
+    width: 100%;
+}
+
+.green {
+    padding: 25px;
+    background-color: #a3c69d ;
+}
+
+.top {
+    padding: 50px;
+    background-color: #c69da3;
+}
+
+.blue {
+    padding: 50px;
+    background-color: #9da3c6 ;
+}
+
+.play {
+    border: none;
+    background-color: #c6b99d;
+    padding: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    font-size: 16px;
+    transition: background-color 1s;
+}
+
+.play:hover {
+    background-color: #bdad8d;
+    transition: background-color 1s;
+}
+
+.msg {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 32px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.title {
+    font-family: 'Cinzel', serif;
+    font-size: 64px;
+    margin: 10px;
+}
+
+.font {
+    font-size: 24px;
+}
