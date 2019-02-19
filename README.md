@@ -1,1 +1,0 @@
-# Mqd-Lbs-Front-Page
